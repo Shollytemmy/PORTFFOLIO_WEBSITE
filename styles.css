@@ -22,3 +22,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.self__image{
+    /* width: 30vw; */
+    /* border: 1px solid red; */
+    object-fit: fill;
+}
