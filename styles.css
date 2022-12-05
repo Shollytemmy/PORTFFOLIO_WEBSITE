@@ -24,7 +24,13 @@
 }
 
 .self__image{
-    /* width: 30vw; */
+    width: 100%;
     /* border: 1px solid red; */
-    object-fit: fill;
+    object-fit: cover ;
+}
+
+.services.card{
+    border: 2px solid red;
+    height: 280px;
+    cursor: pointer;
 }
